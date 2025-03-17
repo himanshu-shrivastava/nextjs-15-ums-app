@@ -4,23 +4,23 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 > First, clone the git repository and run the development server:
 
-````bash
+```bash
 npm install
 npm run dev
-````
+```
 
 > .ENV
-````bash
+```env
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY=
 NEXT_PUBLIC_MOCKAPI_PATH=
-````
+```
 
 > Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ***
 
-### Details
+## Details
 > A project to test basic hooks, routing, apis and auth user management tool (Auth, Middleware, UIs)
 
 -   Basic Test
